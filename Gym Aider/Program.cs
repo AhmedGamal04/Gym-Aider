@@ -24,4 +24,3 @@ app.MapRazorPages();
 
 app.Run();
 
-/*tezyyyyyyyyyyyy 2r3aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa*/
