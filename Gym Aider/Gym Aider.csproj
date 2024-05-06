@@ -7,4 +7,12 @@
     <RootNamespace>Gym_Aider</RootNamespace>
   </PropertyGroup>
 
+  <ItemGroup>
+    <Compile Remove="Pages\Sign_up.cshtml.cs" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Content Remove="Pages\Sign_up.cshtml" />
+  </ItemGroup>
+
 </Project>

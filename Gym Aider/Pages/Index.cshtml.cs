@@ -16,5 +16,10 @@ namespace Gym_Aider.Pages
         {
 
         }
+
+        public IActionResult OnPostSign_up_fubnction ()
+        {
+            return Redirect("/Sign_up2");
+        }
     }
 }
